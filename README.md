@@ -1,4 +1,4 @@
-## Měsíční plánovací kalendář "Julda styl"
+## Měsíční plánovací kalendář "Julda styl" - 2025
 
 - Jednoduchý a velmi přehledný plánovací kalendář k vytištění na celý rok
 - Je to velmi dobrá pomůcka pro plánování pro ty, kteří moc neholdují elektronickým verzím. Papír a tužku stále nic nepřekonalo.
