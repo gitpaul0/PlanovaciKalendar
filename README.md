@@ -1,5 +1,7 @@
 ## Měsíční plánovací kalendář "Julda styl" - 2025
 
+![](https://github.com/gitpaul0/PlanovaciKalendar/blob/main/images/planovaci_kalendar_foto01.jpg?raw=true)
+
 - Jednoduchý a velmi přehledný plánovací kalendář k vytištění na celý rok
 - Je to velmi dobrá pomůcka pro plánování pro ty, kteří moc neholdují elektronickým verzím (papír a tužku stále nic nepřekonalo)
 - Formát souborů: Excel, PDF
@@ -18,7 +20,7 @@
 
 Původně byl kalendář s víceméně tímto vzhledem na stránkách http://www.julda.cz/, které dnes už nejsou dostupné. Autor každý rok vydával nové aktualizované verze, celkově asi 6 různých šablon. Tato je jedna z nich, je velmi dobře navrhnutá a skvěle se používá. Před časem jsem se rozhodl kalendář napodobit s tím, aby šel vytvořit na daný rok s co nejmenší námahou. Nyní je vše automaticky vygenerované v Excelu.
 
-K dispozici kalendáře pro roky:
+K dispozici jsou kalendáře pro roky:
 
 * 2024
 * **2025**
